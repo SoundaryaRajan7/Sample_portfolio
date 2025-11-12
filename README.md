@@ -1,1 +1,1 @@
-Thia project is a responsive portfolio website.
+This project is a responsive portfolio website.
